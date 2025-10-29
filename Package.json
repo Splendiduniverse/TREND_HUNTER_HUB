@@ -1,0 +1,5 @@
+"scripts": {
+  "dev": "vite",
+  "build": "vite build", // <- Đảm bảo lệnh này chạy đúng
+  "preview": "vite preview"
+},
